@@ -1,0 +1,20 @@
+{
+  "user-list": [
+    {
+      "name": "Varnisha",
+      "username": "Nisha26",
+      "address": "Trichy",
+      "email": "nisha1@gmail.com",
+      "phone": "12345",
+      "id": 1
+    },
+    {
+      "name": "Kumar",
+      "username": "Kumar chinnasamy",
+      "address": "coimbatore",
+      "email": "kumar@gmail.com",
+      "phone": "12432134",
+      "id": 2
+    }
+  ]
+}
